@@ -1,2 +1,2 @@
-# Sequential-analysis-ANN
+# Description 
 Classification of protein function based on their sequences. 
