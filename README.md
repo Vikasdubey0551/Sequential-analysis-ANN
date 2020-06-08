@@ -1,6 +1,7 @@
 # Goal
 Classification of protein function based on their sequences. 
-**The function on which the project focuses on is the phosphorylation of proteins.**
+
+**The protein function  which the project focuses is the phosphorylation of proteins.**
 
 # Description 
 Protein phosphorylation is a reversible post-translational modification of proteins in which an amino acid residue is phosphorylated by a protein kinase. Phosphorylation alters the structural conformation of a protein, causing it to become activated, deactivated, or modifying its function. Approximately 13000 human proteins have sites that are phosphorylated [wikipedia].
