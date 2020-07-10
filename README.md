@@ -1,7 +1,7 @@
 # Goal
 Classification of protein function based on their sequences. 
 
-**The protein function  which the project focusses is the phosphorylation of proteins.**
+**The protein function  which the project focusses is the ATP binding of proteins.**
 
 # Description 
 Protein phosphorylation is a reversible post-translational modification of proteins in which an amino acid residue is phosphorylated by a protein kinase. Phosphorylation alters the structural conformation of a protein, causing it to become activated, deactivated, or modifying its function. Approximately 13000 human proteins have sites that are phosphorylated [wikipedia].
@@ -10,7 +10,7 @@ Protein phosphorylation is a reversible post-translational modification of prote
 
 # Data collection
 
-I used data mining (i.e. data scraping) to several protein sequence and their function from biological databases mainly [Unitprot](https://www.uniprot.org/uniprot/P03960).
+Data scraping was performed on several protein sequence and their function from biological databases mainly [Unitprot](https://www.uniprot.org/uniprot/P03960).
 
 >**data-scrapes** folder contains the sequence in the fasta format and annotation of the various proteins.
 
