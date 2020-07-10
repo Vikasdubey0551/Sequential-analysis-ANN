@@ -1,7 +1,7 @@
 # Goal
 Classification of protein function based on their sequences. 
 
-**The protein function  which the project focusses is the ATP binding of proteins.**
+**The protein function  which the project focusses is the ATP binding.**
 
 ![Protein phosphorylation ](./picture/title.png)
 
